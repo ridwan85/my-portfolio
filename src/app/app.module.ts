@@ -24,7 +24,7 @@ import { DataProvider } from '../providers/data/data';
 import { GithubProvider } from '../providers/github/github';
 
 //plugins
-import { IonicImageViewerModule } from 'ionic-img-viewer';
+// import { IonicImageViewerModule } from 'ionic-img-viewer';
 
 @NgModule({
   declarations: [
@@ -41,7 +41,7 @@ import { IonicImageViewerModule } from 'ionic-img-viewer';
       pageTransition: 'ios-transition',
       tabsHighlight:true
     }),
-    IonicImageViewerModule,
+    // IonicImageViewerModule,
     IonicStorageModule.forRoot(),
   ],
   bootstrap: [IonicApp],

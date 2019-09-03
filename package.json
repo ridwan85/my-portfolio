@@ -30,6 +30,7 @@
         "@ionic-native/status-bar": "^3.12.1",
         "@ionic-native/youtube-video-player": "^3.12.1",
         "@ionic/storage": "2.0.1",
+        "@reactivex/rxjs": "^5.5.3",
         "cordova-admob-sdk": "^0.8.0",
         "cordova-android": "^6.2.3",
         "cordova-plugin-admob-free": "^0.10.0",

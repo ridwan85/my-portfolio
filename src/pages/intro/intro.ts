@@ -14,8 +14,8 @@ export class IntroPage {
 
   // public info = new Array();
   public info = {
-    "fullname": "Mohd Mazlan Bin Mohd Nor",
-    "dob": "17 MEI 1992",
+    "fullname": "Mohamad Ridwan Bin Abd Rahman",
+    "dob": "11 DEC 1985",
     "ic": "920517-10-5553",
     "gender": "Male",
     "race": "Malay",
@@ -23,11 +23,11 @@ export class IntroPage {
     "nationality": "Malaysia",
     "status": "Single",
     "language": "Bahasa, English",
-    "email": "mazlan04@gmail.com",
-    "phone": "0196749632",
+    "email": "rdwn.dev@gmail.com",
+    "phone": "01132086314",
     "address": {
-      "street": "No 2 Lot 657 Jalan Bukit Rotan",
-      "street2": "Batu 1 45000 Kuala Selangor"
+      "street": "Jalan PJU 10/1c",
+      "street2": "Damansara Damai"
     },
 
     "education": {

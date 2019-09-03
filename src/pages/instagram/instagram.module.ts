@@ -1,4 +1,4 @@
-import { IonicImageViewerModule } from 'ionic-img-viewer';
+// import { IonicImageViewerModule } from 'ionic-img-viewer';
 import { NgModule } from '@angular/core';
 import { IonicPageModule } from 'ionic-angular';
 import { InstagramPage } from './instagram';
@@ -9,7 +9,7 @@ import { InstagramPage } from './instagram';
   ],
   imports: [
     IonicPageModule.forChild(InstagramPage),
-    IonicImageViewerModule
+    // IonicImageViewerModule
   ],
   exports: [
     InstagramPage

@@ -10,12 +10,12 @@ export class GithubProvider {
   }
 
   getRepo() {
-    return this.http.get('https://api.github.com/users/mazlanmohdnor/repos')
+    return this.http.get('https://api.github.com/users/ridwan85/repos')
       .map(res => res.json());
   }
 
   getUser() {
-    return this.http.get('https://api.github.com/users/mazlanmohdnor')
+    return this.http.get('https://api.github.com/users/ridwan85')
       .map(res => res.json());
   }
 
